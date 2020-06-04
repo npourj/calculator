@@ -28,6 +28,7 @@ operatorButtons.forEach(button => {
 equalsbtn.addEventListener('click', calculate);
 clearbtn.addEventListener('click', clearScreen);
 
+
 function clickedNumButton() {
     if (numLength < maxLength) {
         
